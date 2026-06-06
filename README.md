@@ -31,9 +31,13 @@ To make this MAR, it would help to obtain data about match format and league tie
 **Mean DMG SHARE - ADC**: 0.2772
 **Mean DMG SHARE - MID**: 0.2649
 **Observed Difference**: 0.0122
+
 <iframe
   src="assets/hypothesis_test.html"
   width="800"
   height="600"
   frameborder="0"
 ></iframe>
+
+# Framing a Prediction Problem
+**Prediction Problem**: Can we predict whether a player is an ADC (bot) or mid laner based on in-game performance?
